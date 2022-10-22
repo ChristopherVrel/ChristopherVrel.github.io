@@ -4,3 +4,6 @@
 [submodule "Ohmyfood"]
 	path = Ohmyfood
 	url = https://github.com/ChristopherVrel/Ohmyfood
+[submodule "GameOn-website-FR"]
+	path = GameOn-website-FR
+	url = https://github.com/ChristopherVrel/GameOn-website-FR
