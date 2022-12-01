@@ -7,3 +7,6 @@
 [submodule "GameOn-website-FR"]
 	path = GameOn-website-FR
 	url = https://github.com/ChristopherVrel/GameOn-website-FR
+[submodule "Fisheye"]
+	path = Fisheye
+	url = https://github.com/ChristopherVrel/Fisheye
