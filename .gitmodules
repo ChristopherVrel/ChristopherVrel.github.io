@@ -10,3 +10,6 @@
 [submodule "Fisheye"]
 	path = Fisheye
 	url = https://github.com/ChristopherVrel/Fisheye
+[submodule "Les-Petits-Plats"]
+	path = Les-Petits-Plats
+	url = https://github.com/ChristopherVrel/Les-Petits-Plats
